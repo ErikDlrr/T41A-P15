@@ -1,8 +1,8 @@
 INSERT INTO productos (nombre, precio, stock) VALUES
-('Laptop', 8500.00, 5),     
-('Monitor', 1999.99, 12),
-('Mouse', 150.00, 30),
-('Teclado', 299.99, 3);     
+('Laptop', 12000.00, 5),     
+('Monitor', 1500.00, 12),
+('Mouse', 199.99, 30),
+('Teclado', 666.66, 6);     
 
 INSERT INTO departamentos (id, nombre) VALUES
 (1, 'Ventas'),
